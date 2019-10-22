@@ -4,7 +4,9 @@ These are the .PcbLib and .SchLib Altium Libraries that contain all the componen
 
 ## Contents
 
-**Hardware:** Altium .PcbLib Footprint Library File, Altium .SchLib Schematic Library File
+[**Libraries:**](https://github.com/synthiam/Synthiam_Altium_Librairies/tree/master/Libraries) 
+- Altium .PcbLib Footprint Library File
+- Altium .SchLib Schematic Library File
 
 ## Attribution
 
